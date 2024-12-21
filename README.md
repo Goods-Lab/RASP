@@ -1,6 +1,6 @@
 # Randomized Spatial PCA (RASP)
 
-![RASP model:](figure_1A.pdf)
+![RASP model:](figure_1_A.pdf)
 
 ## Description
 
