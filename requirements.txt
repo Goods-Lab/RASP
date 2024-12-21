@@ -1,0 +1,10 @@
+numpy
+pandas
+scanpy
+squidpy
+matplotlib
+scipy
+sklearn
+rpy2
+mclustpy
+igraph
