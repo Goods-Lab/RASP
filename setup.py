@@ -11,7 +11,7 @@ setup(
         'squidpy',
         'matplotlib',
         'scipy',
-        'sklearn',
+        'scikit-learn',
         'rpy2',
         'mclustpy',
         'igraph',
