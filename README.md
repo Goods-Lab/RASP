@@ -20,7 +20,7 @@ To achieve these goals, RASP uses a randomized two-stage principal component ana
 ## Requirements
 
 To run RASP, you need the following Python packages:
-
+```
 - numpy
 - pandas
 - scanpy
@@ -31,6 +31,15 @@ To run RASP, you need the following Python packages:
 - rpy2
 - mclustpy
 - igraph
+```
+
+## Installation
+We are working on getting RASP up on anaconda. In the meantime, to install RASP from Github please clone the repo: 
+```bash
+git clone https://github.com/Goods-Lab//RASP.git
+cd RASP
+pip install . 
+```
 
 ## Citation
-If you use RASP in your research, please cite the following preprint: 
+If you use RASP in your research, please cite the following preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629785v1
