@@ -21,16 +21,15 @@ To achieve these goals, RASP uses a randomized two-stage principal component ana
 
 To run RASP, you need the following Python packages:
 ```
-- numpy
-- pandas
-- scanpy
-- squidpy
-- matplotlib
-- scipy
-- sklearn
-- rpy2
-- mclustpy
-- igraph
+- numpy==1.26.4
+- pandas==2.2.2
+- scanpy==1.10.1
+- squidpy=1.2.2
+- matplotlib==3.8.4
+- scipy==1.13.1
+- sklearn==1.5.0
+- rpy2=3.5.16
+- igraph==0.11.5
 ```
 
 ## Installation
