@@ -33,7 +33,7 @@ To run RASP, you need the following Python packages:
 ```
 
 ## Installation
-We are working on getting RASP up on anaconda. In the meantime, to install RASP from Github please clone the repo: 
+We are working on getting RASP up on anaconda. In the meantime, to install RASP from Github please navigate to the location where you would like install the package and clone the repo: 
 ```bash
 git clone https://github.com/Goods-Lab//RASP.git
 cd RASP
