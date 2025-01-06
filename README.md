@@ -39,6 +39,8 @@ git clone https://github.com/Goods-Lab//RASP.git
 cd RASP
 pip install . 
 ```
+## Usage
+See tutorials folder for example usage
 
 ## Citation
 If you use RASP in your research, please cite the following preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629785v1
